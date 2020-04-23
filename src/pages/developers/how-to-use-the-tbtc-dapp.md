@@ -1,10 +1,10 @@
 ---
 template: resource
+path: developers/how-to-use-the-tbtc-dapp
 title: 'Individuals: How to Use the tBTC dApp'
 heading: How to Use the tBTC dApp
 description: A step-by-step guide for using minting and redeeming TBTC.
 date: 2020-04-01T16:04:10.000Z
-path: developers/how-to-use-the-tbtc-dapp
 tags:
   - tbtc
 ---
@@ -13,7 +13,7 @@ This is a step-by-step guide for using the tBTC dApp.
 To start, you need to:
 
 * Make sure you have [Metamask](https://metamask.io/) installed.
-* Get some ETH from [Coinbase](http://coinbase.com) or another source (to pay for gas) if you don&#39;t have any already.
+* Get some ETH from [Coinbase](http://coinbase.com) or another source (to pay for gas) if you don't have any already.
 * Make sure you have some ETH in your Metamask wallet.
 
 Once the ETH is in your wallet, go to [the Ropsten tBTC dApp](https://dapp.test.tbtc.network).
